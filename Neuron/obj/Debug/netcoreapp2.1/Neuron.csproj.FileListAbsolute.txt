@@ -1,0 +1,11 @@
+C:\Users\Nikitka\source\repos\Neuron\Neuron\obj\Debug\netcoreapp2.1\Neuron.csprojAssemblyReference.cache
+C:\Users\Nikitka\source\repos\Neuron\Neuron\obj\Debug\netcoreapp2.1\Neuron.csproj.CoreCompileInputs.cache
+C:\Users\Nikitka\source\repos\Neuron\Neuron\obj\Debug\netcoreapp2.1\Neuron.AssemblyInfoInputs.cache
+C:\Users\Nikitka\source\repos\Neuron\Neuron\obj\Debug\netcoreapp2.1\Neuron.AssemblyInfo.cs
+C:\Users\Nikitka\source\repos\Neuron\Neuron\bin\Debug\netcoreapp2.1\Neuron.deps.json
+C:\Users\Nikitka\source\repos\Neuron\Neuron\bin\Debug\netcoreapp2.1\Neuron.runtimeconfig.json
+C:\Users\Nikitka\source\repos\Neuron\Neuron\bin\Debug\netcoreapp2.1\Neuron.runtimeconfig.dev.json
+C:\Users\Nikitka\source\repos\Neuron\Neuron\bin\Debug\netcoreapp2.1\Neuron.dll
+C:\Users\Nikitka\source\repos\Neuron\Neuron\bin\Debug\netcoreapp2.1\Neuron.pdb
+C:\Users\Nikitka\source\repos\Neuron\Neuron\obj\Debug\netcoreapp2.1\Neuron.dll
+C:\Users\Nikitka\source\repos\Neuron\Neuron\obj\Debug\netcoreapp2.1\Neuron.pdb
